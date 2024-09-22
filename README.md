@@ -22,6 +22,7 @@
 
 - 💪 Vue 3 Composition API
 - 🔥 Written in TypeScript
+- For Chinese Texture Style Cascading
 
 ## Getting Started
 
